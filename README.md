@@ -6,7 +6,9 @@
 This repo is a personal project to work with Python, Tkinter, and PyInstaller to convert a YouTube video into an mp3.
 
 [How to Run](#how-to-run)
+
 [How to Use](#how-to-use)
+
 [Examples](#examples)
 
 ## How to Run
