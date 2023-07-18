@@ -5,6 +5,10 @@
 
 This repo is a personal project to work with Python, Tkinter, and PyInstaller to convert a YouTube video into an mp3.
 
+[How to Run](#how-to-run)
+[How to Use](#how-to-use)
+[Examples](#examples)
+
 ## How to Run
 
 You can click on the most recent release under Releases and download 'downloader.exe' from there. Once downloaded, clicking on the executable should run the program. 
@@ -22,8 +26,12 @@ If you choose to clone the repo, you can also run the program by navigating to t
 
 ## Examples
 
-[Starting Screen](/images/StartScreen.png)
-[If no URL is provided](/images/ErrorURL.png)
-[If no filename is provided](/images/ErrorFilename.png)
-[An example of correct usage](/images/SuccessfulInput.png)
-[An example of a successful download](/images/SuccessfulDownload.png)
+![Starting Screen](/images/StartScreen.png)
+
+![If no URL is provided](/images/ErrorURL.png)
+
+![If no filename is provided](/images/ErrorFilename.png)
+
+![An example of correct usage](/images/SuccessfulInput.png)
+
+![An example of a successful download](/images/SuccessfulDownload.png)
